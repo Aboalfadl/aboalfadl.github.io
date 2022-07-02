@@ -5,7 +5,16 @@ ___  ___                _ _             _     _____          _ _           _    
 | |\/| |/ _` | '_ \ / _` | |/ _` | '_ \| __|   | || '_ \ / _` | |/ __/ _` | __/ _ \| '__|  `--. \/ __/ _` | '_ \| '_ \ / _ \ '__|
 | |  | | (_| | | | | (_| | | (_| | | | | |_   _| || | | | (_| | | (_| (_| | || (_) | |    /\__/ / (_| (_| | | | | | | |  __/ |   
 \_|  |_/\__,_|_| |_|\__,_|_|\__,_|_| |_|\__|  \___/_| |_|\__,_|_|\___\__,_|\__\___/|_|    \____/ \___\__,_|_| |_|_| |_|\___|_|   
-ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo                                                                                                        
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo                                         
+
+################################################################################
+# This tool is designed and coded by Fadl0X Aka Dark to help the blue teams    #
+# while doing their job to fast analysis indicators whatever the type of       # 
+# indicator by implementing A multi search function using mandiant APIs        #
+# (Of course) if your employer already subscribe to mandiant threat intel.     #
+# the tool will search on all the indicators you provide against mandiant APIs # 
+# and will return with the result in a CSV formate to be easy readable         #
+################################################################################                                                               
                                                                                                                                  
 
 
