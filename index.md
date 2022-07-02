@@ -19,7 +19,7 @@ If you have any inquiry please contact me at: [fadl0x@protonmail.com]
 
 ### 2- Indicator Scanner Tool (GUI) :
 
-	- Support (Mandiant FireEye + VirusTotal MultiSearch) Feature.
+	- Support (Mandiant FireEye + VirusTotal) MultiSearch Feature.
 	- Support Single Search for (Mandiant FireEye, VirusTotal, XForce, AlienVault).
 	- Comming Soon.
 
