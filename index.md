@@ -8,14 +8,14 @@ Recently I’ve been working in a security operation center as SOC Layer 2, I wi
 I’m very open to discussions and comments.
 
 ```
-If you have any inquiry please contact me at: [fadl0x@protonmail.com](mailto:fadl0x@protonmail.com) 
+If you have any inquiry please contact me at: [fadl0x@protonmail.com] 
 ```
 
 # DFIR & Blue Team Tools:
 
 ### 1- Mandiant FireEye Indicator Scanner Tool (Python):
 
- - [GitHub URL](https://github.com/Aboalfadl/aboalfadl.github.io/tree/main/Mandiant%20FireEye%20API%20Indicator%20Search%20v1.5)
+​		- [GitHub URL](https://github.com/Aboalfadl/aboalfadl.github.io/tree/main/Mandiant%20FireEye%20API%20Indicator%20Search%20v1.5)
 
 ### 2- Indicator Scanner Tool (GUI) :
 
