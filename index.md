@@ -12,15 +12,16 @@ If you have any inquiry please contact me at: [fadl0x@protonmail.com](mailto:fad
 
 ### 1- Mandiant FireEye Indicator Scanner Tool (Python)
 
- - [Click]: https://github.com/Aboalfadl/aboalfadl.github.io/tree/main/Mandiant%20FireEye%20API%20Indicator%20Search%20v1.5	"Click Here to view on GitHub"
+ - []: https://github.com/Aboalfadl/aboalfadl.github.io/tree/main/Mandiant%20FireEye%20API%20Indicator%20Search%20v1.5	"Click Here to view on GitHub"
 
 ### 2- Indicator Scanner Tool (GUI) :
 
-	- Support (Mandiant FireEye + VirusTotal MultiSearch) Feature 
-	- Support Single Search for (Mandiant FireEye, VirusTotal, XForce, AlienVault)
+	- Support (Mandiant FireEye + VirusTotal MultiSearch) Feature.
+	- Support Single Search for (Mandiant FireEye, VirusTotal, XForce, AlienVault).
+	- Comming Soon.
 
 ### 3- VirusTotal Json to CSV convertor (Python):
 
-	- Click here to view on GitHub.
+	- Click here to view on GitHub.(Comming Soon)
 
-### 3- Other Tools will be provided soon.
+### 4- Other Tools will be provided soon.
