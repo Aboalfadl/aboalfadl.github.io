@@ -1,6 +1,6 @@
 # Mandiant FireEye API Indicator Search v1.5
 
-### Tool URL: [Click Here](https://github.com/Aboalfadl/aboalfadl.github.io/tree/main/Mandiant%20FireEye%20API%20Indicator%20Search%20v1.5)
+### Tool URL: [Click Here](https://github.com/Aboalfadl/aboalfadl.github.io/releases/download/python/Mandiant.FireEye.API.Indicator.Search.v1.5.zip)
 
 	################################################################################
 	# This tool is designed and coded by Fadl0X Aka Dark to help the blue teams    #
