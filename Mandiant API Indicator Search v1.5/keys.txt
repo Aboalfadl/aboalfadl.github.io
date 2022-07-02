@@ -1,0 +1,8 @@
+EXAMPLE:
+"xkjhsdkjhasdjkasd This is my client ID"
+"xkjhsdkjhasdjkasd This is my client SECRET"
+
+Remove all these lines and insert only client id and secret separated by line
+
+
+CopyRight @Fadl0X
