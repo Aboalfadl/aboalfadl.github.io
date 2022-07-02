@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Aboalfadl/aboalfadl.github.io/main/Logo.png" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/Aboalfadl/aboalfadl.github.io/main/Logo.png" style="zoom:40%;" />
 
 # Quick Introduction:
 
