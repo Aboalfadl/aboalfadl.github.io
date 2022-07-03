@@ -13,6 +13,8 @@ If you have any inquiry please contact me at: [fadl0x@protonmail.com]
 
 # DFIR & Blue Team Tools:
 
+## Blue Team & SOC  Tools:
+
 ### 1- Mandiant FireEye Indicator Scanner Tool (Python):
 
 ​		- [View Tool](https://aboalfadl.github.io/Mandiant%20FireEye%20API%20Indicator%20Search%20v1.5)
@@ -25,8 +27,16 @@ If you have any inquiry please contact me at: [fadl0x@protonmail.com]
 
 ### 3- VirusTotal Json to CSV convertor (Python):
 
-	- Click here to view on GitHub.(Comming Soon)
+	- Comming Soon.
 
 ### 4- Other Tools will be provided soon.
 
-	- Click here to view on GitHub.(Comming Soon)
+	- Comming Soon.
+
+## DFIR Tools:
+
+```
+- Comming Soon.
+```
+
+## 
