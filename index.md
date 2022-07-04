@@ -35,6 +35,6 @@ If you have any inquiry please contact me at: [dark@aboalfadl.com]
 
 ## DFIR Tools:
 
-```
-- Comming Soon.
-```
+### 1- Simple PowerShell Eradication Script (PowerShell):
+
+  - [View Tool](https://aboalfadl.com/SimpleEradication/)
