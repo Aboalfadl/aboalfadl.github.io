@@ -8,7 +8,7 @@ Recently I’ve been working in a security operation center as SOC Layer 2, I wi
 I’m very open to discussions and comments.
 
 ```
-If you have any inquiry please contact me at: [fadl0x@protonmail.com] 
+If you have any inquiry please contact me at: [dark@aboalfadl.com] 
 ```
 
 # DFIR & Blue Team Tools:
