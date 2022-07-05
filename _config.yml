@@ -1,7 +1,7 @@
-theme : minimal-mistakes-jekyll
+theme : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "neon" 
 #theme: jekyll-theme-hacker
-title: Aboalfadl's Tools
+title: "Aboalfadl's Tools"
 # Site Author
 author:
 name             : "Aboalfadl"
