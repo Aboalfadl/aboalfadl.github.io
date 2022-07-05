@@ -1,2 +1,18 @@
 theme: jekyll-theme-hacker
 title: Aboalfadl's Tools
+# Site Author
+author:
+name             : "Aboalfadl"
+avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+bio              : "Cyber Security Engineer"
+location         : "Earth"
+links:
+  - label: "Email"
+    icon: "fas fa-fw fa-envelope-square"
+    url: "mailto:dark@aboalfadl.com"
+  - label: "Website"
+    icon: "fas fa-fw fa-link"
+    url: "https://aboalfadl.com"
+  - label: "GitHub"
+    icon: "fab fa-fw fa-github"
+    url: "https://github.com/Aboalfadl"
