@@ -1,4 +1,6 @@
-minimal_mistakes_skin : "neon" 
+theme : minimal-mistakes-jekyll
+minimal_mistakes_skin    : "neon" 
+#theme: jekyll-theme-hacker
 title: Aboalfadl's Tools
 # Site Author
 author:
