@@ -1,5 +1,0 @@
-pytz
-six
-numpy
-python-dateutil
-pandas
