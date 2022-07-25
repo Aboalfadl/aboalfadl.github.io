@@ -1,16 +1,3 @@
-<<<<<<< Updated upstream
-theme: jekyll-theme-hacker
-title: "Aboalfadl's Tools"
-author:
-  name             : "Aboalfadl"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Cyber Security Engineer"
-  location         : "Earth"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:dark@aboalfadl.com"
-=======
 # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 minimal_mistakes_skin    : "dark"
 
