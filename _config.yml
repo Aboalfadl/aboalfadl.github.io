@@ -1,5 +1,5 @@
 # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-minimal_mistakes_skin    : "sunrise" 
+minimal_mistakes_skin    : "dark" 
 
 # Site Settings
 locale                   : "en-US"
