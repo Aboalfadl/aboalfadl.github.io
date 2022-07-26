@@ -1,5 +1,5 @@
 # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-minimal_mistakes_skin    : "dark"
+minimal_mistakes_skin    : "sunrise" 
 
 # Site Settings
 locale                   : "en-US"
@@ -81,15 +81,12 @@ author:
   location         : "Earth"
   email            : "dark@aboalfadl.com"
   links:
->>>>>>> Stashed changes
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://aboalfadl.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Aboalfadl"
-<<<<<<< Updated upstream
-=======
 
 # Site Footer
 footer:
