@@ -1,11 +1,9 @@
 ---
 title: "About"
 permalink: /about/
-layout: page
+layout: single
 author_profile: true
 ---
-
-<img src="https://raw.githubusercontent.com/Aboalfadl/aboalfadl.github.io/main/Logo.png" style="zoom:50%;" />
 
 # Quick Introduction:
 
