@@ -11,8 +11,7 @@ layout: single
 
 This tool is designed and coded by Fadl0X Aka Dark to help the blue teams while doing their job to fast analysis indicators whatever the type of indicator by implementing A multi search function using Mandiant APIs (Of course) if your employer already subscribe to Mandiant threat intel. the tool will search on all the indicators you provide against Mandiant APIs and will return with the result in a CSV format to be easy readable
 
-
-To use this script, please:
+### To use this script:
 
 - login to Mandiant, go to settings and get your API keys (ID & Secret).
 
@@ -27,7 +26,7 @@ To use this script, please:
 - pip install -r requirments.txt
 
 - run the script.
-  	
-  **NOTE** please review the indicators first before inserting them to the indicators.txt file. **NOTE**
+
+```please review the indicators first before inserting them to the indicators.txt file.```
   	
   Thanks. Happy Hunting.

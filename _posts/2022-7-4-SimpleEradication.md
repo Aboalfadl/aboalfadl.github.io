@@ -28,14 +28,13 @@ Tool Brief:
 
 - If any malicious processes found or hashes , will be killed and cleaned.
 
+### To use this cleaner:
+- open PowerShell as administrator.
+- navigate to the current folder of the cleaner.
+- type .\Eradication.ps1
+- Script will run and after it finish a transcript will be available on the same directory of the script.
+- Cleaner will kill all malicious processes and delete/clean the system from the malicious files.
+- If there are any issues please contact me: dark@aboalfadl.com
   
-  
-  ### To use this cleaner:
-    - open PowerShell as administrator.
-    - navigate to the current folder of the cleaner.
-    - type .\Eradication.ps1
-    - Script will run and after it finish a transcript will be available on the same directory of the script.
-	  - Cleaner will kill all malicious processes and delete/clean the system from the malicious files.
-	  - If there are any issues please contact me: dark@aboalfadl.com
-	
-	Thanks. Happy Hunting.
+
+```Thanks. Happy Hunting.```
