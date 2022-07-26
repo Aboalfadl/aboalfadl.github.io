@@ -238,3 +238,5 @@ defaults:
         layout: single
         author_profile: true
 >>>>>>> Stashed changes
+
+theme: jekyll-theme-minimal
