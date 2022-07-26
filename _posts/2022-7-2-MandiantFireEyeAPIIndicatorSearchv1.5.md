@@ -27,6 +27,6 @@ This tool is designed and coded by Fadl0X Aka Dark to help the blue teams while 
 
 - run the script.
 
-```please review the indicators first before inserting them to the indicators.txt file.```
+```Please review the indicators first before inserting them to the indicators.txt file.```
   	
-  Thanks. Happy Hunting.
+```Thanks. Happy Hunting.```

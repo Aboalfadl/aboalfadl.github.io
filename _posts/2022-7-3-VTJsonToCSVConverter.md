@@ -20,6 +20,6 @@ To use this script, please:
 - Run the script using: python3 VTConverter.py
 - find the csv format as VT Result.csv
 
-```please review the indicators first before inserting them to the indicators.txt file.```
-	
-Thanks. Happy Hunting.
+```Please review the indicators first before inserting them to the indicators.txt file.```
+
+```Thanks. Happy Hunting.```
